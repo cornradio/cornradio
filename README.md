@@ -7,14 +7,20 @@
 <details>
 <summary>🖥️ my projects :</summary>
   
+  - python stuff
   - https://github.com/cornradio/dumb_menu  
+  - web stuff
   - https://github.com/cornradio/webclipboard
   - https://github.com/cornradio/LANwebclipboard-win-flask
   - https://github.com/cornradio/watchTV
+  - windows tool stuff
   - https://github.com/cornradio/apex_runner
+  - https://github.com/cornradio/pausemygame
+  - ahk stuff
+  - https://github.com/cornradio/ahkshortcut
   - https://github.com/cornradio/lightspeed-UI
+  - js stuff
   - https://github.com/cornradio/jandanusersearch
-  - https://github.com/cornradio/imagewatcher
 
 </details>
 
