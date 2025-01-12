@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning ... a lot
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... dont reach me
-- 🖥️ my projects :
-  - https://github.com/cornradio/dumb_menu
+
+<details>
+<summary>🖥️ my projects :</summary>
+  
+  - https://github.com/cornradio/dumb_menu  
   - https://github.com/cornradio/webclipboard
   - https://github.com/cornradio/LANwebclipboard-win-flask
   - https://github.com/cornradio/watchTV
@@ -12,7 +15,12 @@
   - https://github.com/cornradio/lightspeed-UI
   - https://github.com/cornradio/jandanusersearch
   - https://github.com/cornradio/imagewatcher
-- 🌊🏄 i like surfing internet
+
+</details>
+
+<details>
+<summary>🌊🏄 i like surfing internet</summary>
+
   - https://www.v2ex.com/
   - http://jandan.net/
   - https://www.smzdm.com/
@@ -26,4 +34,6 @@
   - https://dev.to/
   - https://app.hackthebox.com/home
   - https://www.w3schools.com/
-  - https://cornradio.github.io/watchTV/h.html
+
+</details>
+  
