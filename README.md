@@ -6,8 +6,10 @@ my app store: https://appstore.cornradio.org/
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... dont reach me
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cornradio&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cornradio&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
 <details>
 <summary>🖥️ my projects :</summary>
   
